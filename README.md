@@ -8,7 +8,7 @@ PathFinding.js
 [![Dependency Status](https://david-dm.org/qiao/pathfinding.js.png)](https://david-dm.org/qiao/pathfinding.js)
 [![Documentation Status](https://readthedocs.org/projects/pathfindingjs/badge/)](https://readthedocs.org/projects/pathfindingjs/?badge=latest)
 
-Introduction
+Introdução
 ------------
 
 The aim of this project is to provide a path-finding library that can be easily incorporated into web games. It may run on Node.js or the browser.
